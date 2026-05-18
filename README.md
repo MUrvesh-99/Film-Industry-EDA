@@ -28,8 +28,23 @@ strategy. The dataset covers 4,803 films sourced from TMDB via Kaggle.
   100 and 150 minutes
 
 ## Sample Visualisations
-![Genre ROI](genre_roi.png)
-![Profitability Trend](profitability_trend.png)
+<p align="center">
+  <img src="https://github.com/MUrvesh-99/Film-Industry-EDA/blob/main/charts/budget_revenue_trend.png"
+       alt="Film-Industry-EDA" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/MUrvesh-99/Film-Industry-EDA/blob/main/charts/films_according_Year.png"
+       alt="Film-Industry-EDA" width="900">
+</p>
+<p align="center">
+  <img src="https://github.com/MUrvesh-99/Film-Industry-EDA/blob/main/charts/language_analysis.png"
+       alt="Film-Industry-EDA" width="900">
+</p>
+<p align="center">
+  <img src="https://github.com/MUrvesh-99/Film-Industry-EDA/blob/main/charts/rating_buckets.png"
+       alt="Film-Industry-EDA" width="900">
+</p>
 
 ## Dataset
 Source: TMDB Movies Dataset via Kaggle  
