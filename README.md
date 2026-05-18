@@ -53,7 +53,3 @@ Link: https://www.kaggle.com/datasets/utkarshx27/movies-dataset
 
 ## Tech Stack
 Python 3 | Pandas | NumPy | Matplotlib | Seaborn
-
-## How to Run
-1. Clone the repo and open `project_movie_kaggle_.ipynb` in Jupyter Notebook
-2. Run all cells in order from top to bottom
